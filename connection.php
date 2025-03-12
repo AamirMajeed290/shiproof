@@ -1,6 +1,6 @@
 <?php
 
-$serverName="localhost";
+$serverName="192.168.10.20";
 $databaseName="shiproof";
 $userName="root";
 $password="root";
